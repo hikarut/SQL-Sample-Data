@@ -9,5 +9,5 @@
 * SQLite
 
 ## 最新版ファイルのダウンロード
-* https://github.com/hikarut/SQL-Hands-on/releases/latest
+* https://github.com/hikarut/SQL-Sample-Data/releases/latest
   * ※「Source code (zip)」からダウンロード
