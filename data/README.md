@@ -19,8 +19,9 @@
 |product_id|商品ID|TEXT||
 |name|商品名|TEXT||
 |price|金額|INTEGER||
-|category1|カテゴリ1|TEXT||
-|category2|カテゴリ1|TEXT||
+|large_category|大カテゴリ|TEXT||
+|medium_category|中カテゴリ|TEXT||
+|small_category|小カテゴリ|TEXT||
 
 ## orders
 注文情報が格納されたデータです。
