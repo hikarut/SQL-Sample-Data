@@ -1,4 +1,4 @@
-product_id,name,price,category1,category2,category3
+product_id,name,price,large_category,medium_category,small_category
 B001,美味しい水 500ml,59,食品,飲料水,水
 B002,美味しい水 2l,120,食品,飲料水,水
 B003,美味しい水 2l 6本セット,690,食品,飲料水,水
